@@ -7,7 +7,7 @@
 
 # Phoenix IT Internal Network
 
-Phoenix IT Internal Network is a employee management software for managing employees activity,salaries,meeting schedule etc.
+Phoenix IT Internal Network is an employee management software for managing employees activity,salaries,meeting schedule etc.
 This software has two types of user.
 1. Admin
 2. Employee
